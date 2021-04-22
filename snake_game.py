@@ -71,7 +71,6 @@ class Snake:
         self.draw()
 
 
-
 class Game:
     def __init__(self):
         pygame.init()
